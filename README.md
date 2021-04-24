@@ -28,3 +28,11 @@ Ones I'm pretty sure we don't want to directly import
 2. gray notes
 3. glen
 
+
+
+SPANISH Trail Inv
+
+This has alot of assumed logic behind it. I think I generally understand what it's looking for.  But because this seems to be used as a temporary data input it doesn't lend it's self to being imported on the page. We would want to make inputs and then show a table based on the input data + logic.
+
+
+
